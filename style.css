@@ -1,0 +1,29 @@
+body{
+    font-family: "arial", sans-serif;
+    box-sizing: border-box;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.heading-2,
+.heading-3{
+    border-bottom: 3px solid #000;
+    display: inline-block;
+}
+
+.column-1 {
+    float: left;
+    margin-right: 8vw;
+}
+
+.column-1, .column-2 {
+    display: inline-block;
+    width: 45vw;
+}
+
+.section-1 {
+    clear: both;
+}
+
